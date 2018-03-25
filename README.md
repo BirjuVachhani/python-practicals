@@ -65,7 +65,7 @@ clown and the car</i>
 who will predict weather for a particular week and for next seven days. Implement this scenario by creating two modules namely daily.py and weekly.py for predicting daily and weekly weather respectively.
 
 ## Set 5
-- [ ] 1. WAP to read data from keyboard & write it to the file. After writing is completed, the file is closed. The program again opens the same file and reads it.
+- [x] 1. WAP to read data from keyboard & write it to the file. After writing is completed, the file is closed. The program again opens the same file and reads it.
 - [ ] 2. WAP to prompt for a file name, and then read through the file and look for lines of
 the form: X-DSPAM-Confidence:0.8475
 <br><br>When you encounter a line that starts with “X-DSPAM-Confidence:” 
