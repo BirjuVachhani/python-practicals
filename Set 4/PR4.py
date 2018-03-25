@@ -18,3 +18,8 @@ def sumOf(numbers=[0]):
 
 print(sumOf([1,2,3,4,5]))
 print(sumOf())
+
+#Keyword usage example
+x=True
+y=False
+print('x is {} and y is {}'.format(x,y))

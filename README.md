@@ -57,7 +57,7 @@ clown and the car</i>
 
 - [x] 3. WAP read a set of numbers from keyboard & to find the sum of all elements of the given array using a function.
 
-- [ ] 4. WAP to demonstrate usage of positional, keyword and default parameters.
+- [x] 4. WAP to demonstrate usage of positional, keyword and default parameters.
 
 - [ ] 5. WAP to implement take a break story. This program will notify users to take a break by playing their favorite video on YouTube after fixed amount of time.
 
