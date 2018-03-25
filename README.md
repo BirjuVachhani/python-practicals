@@ -82,7 +82,7 @@ Average spam confidence: 0.894128046745
 For example:
 <br>If the file name is TestFile1.txt with text Jack said, “Hello Pune”. The output to the file TestFile2.txt should be Jack said,\“Hello Pune\”.
 
-5. Assume that there is a folder (directory) by name “root”. This folder has some files and some subfolders. Each subfolder in turn may have files and subfolders. Write a program to lists all the files inside all the folders/subfolders along with their absolute path.  - [ ]
+- [ ] 5. Assume that there is a folder (directory) by name “root”. This folder has some files and some subfolders. Each subfolder in turn may have files and subfolders. Write a program to lists all the files inside all the folders/subfolders along with their absolute path.
 
 ## Set 6
  - [ ] Rewrite compute salary program (2.8) using try and except.
