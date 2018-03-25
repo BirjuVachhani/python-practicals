@@ -28,7 +28,9 @@ Basic Python practicals to begin with python
 
 8. WAP to prompt the user for hours and rate per hour to compute gross pay. Company will give the employee 1.5 times the Hourly rate for hours worked above 40 hours.
 
-9. Given the family relationship below output all persons who fit in the input characteristic. These characteristics are SIBLING, PARENT, CHILD, GRANDPARENT and GRANDCHILD. Family 1 -> Ann and Marty have children Bill, Cathy and Frank. Cathy and Don have children Madd and Sally. Frank and Jill have child Sarah. Bill and Alice have no children. Family 2 -> Debbie and Phil have children Jill and Betty. Jill and Frank have child Sarah. Betty and Paul have children Marry, Jane and Bart.
+9. Given the family relationship below output all persons who fit in the input characteristic. These characteristics are SIBLING, PARENT, CHILD, GRANDPARENT and GRANDCHILD. 
+<br><br>Family 1 -> Ann and Marty have children Bill, Cathy and Frank. Cathy and Don have children Madd and Sally. Frank and Jill have child Sarah. Bill and Alice have no children.
+<br><br>Family 2 -> Debbie and Phil have children Jill and Betty. Jill and Frank have child Sarah. Betty and Paul have children Marry, Jane and Bart.
 
 ## Set 3
 1. WAP which will print a string as it is except # and done is entered.
