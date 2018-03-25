@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+enrl=input("Enter enrollment no.:")
+division=input("Enter your Division:")
+address=input("Enter your address:")
+print("\n\nEntered Details:\n")
+print("Name:\t\t\t{}\nEnrollment No.:\t\t{}\nDivision:\t\t{}\nAddress: \t\t{}".format(name,enrl,division,address))
