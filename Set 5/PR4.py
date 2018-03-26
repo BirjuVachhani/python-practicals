@@ -1,0 +1,10 @@
+file_name = input('Enter file name for input(with extension):')
+f = open(file_name)
+line = f.read()
+line_parts = line.split('"')
+output = '\\"'.join(line_parts)
+f.close()
+print('\nOutput:\n {}'.format(output))
+with open('output.txt','w') as f:
+    f.write(output)
+print('Successfully written to the file.')

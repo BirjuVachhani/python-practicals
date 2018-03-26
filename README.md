@@ -79,7 +79,7 @@ Average spam confidence: 0.894128046745
 
 - [ ] 3. Assume that your friend is playing prank with you. You are not able to find your house keys. Your friend has hidden your house keys. If you want your keys back, solve the puzzle. Go to prank folder in your computer. Rename all the files by removing numbers from the filename. You will get the location where keys are hidden.
 
-- [ ] 4. Write a program in Python that reads a file and adds backslash (\) before every double quote it encounters. And then writes it to another file in the same folder.
+- [x] 4. Write a program in Python that reads a file and adds backslash (\) before every double quote it encounters. And then writes it to another file in the same folder.
 <br><br>
 For example:
 <br>If the file name is TestFile1.txt with text Jack said, “Hello Pune”. The output to the file TestFile2.txt should be Jack said,\“Hello Pune\”.
