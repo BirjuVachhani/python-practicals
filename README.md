@@ -1,7 +1,7 @@
 # python-practicals
 Basic Python practicals to begin with python.
 
-![banner][python.png]
+![banner](python.png)
 
 ## Set 1
 - [x] 1. WAP to display basic details of a User like Name, Roll no, Division and Address.
