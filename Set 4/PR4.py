@@ -20,6 +20,7 @@ print(sumOf([1,2,3,4,5]))
 print(sumOf())
 
 #Keyword usage example
-x=True
-y=False
-print('x is {} and y is {}'.format(x,y))
+def printUser(fname,lname,age,city):
+    print("I am {} {}. I am {} years old and I am from {}.".format(fname,lname,age,city))
+
+printUser(fname="Birju",lname="Vachhani",age=21,city="Ahmedabad")
