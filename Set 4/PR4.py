@@ -17,7 +17,7 @@ def sumOf(numbers=[0]):
     return total_sum
 
 print(sumOf([1,2,3,4,5]))
-print(sumOf())
+print(sumOf()) 
 
 #Keyword usage example
 def printUser(fname,lname,age,city):
