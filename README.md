@@ -68,7 +68,7 @@ who will predict weather for a particular week and for next seven days. Implemen
 
 ## Set 5
 - [x] 1. WAP to read data from keyboard & write it to the file. After writing is completed, the file is closed. The program again opens the same file and reads it.
-- [ ] 2. WAP to prompt for a file name, and then read through the file and look for lines of
+- [x] 2. WAP to prompt for a file name, and then read through the file and look for lines of
 the form: X-DSPAM-Confidence:0.8475
 <br><br>When you encounter a line that starts with “X-DSPAM-Confidence:” 
 <br><br>pull apart the line to extract the floating-point number on the line. Count these lines and then compute the total of the spam confidence values from these lines. When you reach the end of the file, print out the average spam confidence.
