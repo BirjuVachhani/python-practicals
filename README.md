@@ -63,7 +63,7 @@ clown and the car</i>
 
 - [ ] 5. WAP to implement take a break story. This program will notify users to take a break by playing their favorite video on YouTube after fixed amount of time.
 
-- [ ] 6. WAP to help weatherman
+- [x] 6. WAP to help weatherman
 who will predict weather for a particular week and for next seven days. Implement this scenario by creating two modules namely daily.py and weekly.py for predicting daily and weekly weather respectively.
 
 ## Set 5
