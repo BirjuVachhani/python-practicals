@@ -90,3 +90,29 @@ For example:
  - [ ] 1. Rewrite compute salary program (2.8) using try and except.
  - [ ] 2. WAP to demonstrate usage of one try block with multiple except block and else clause.
  - [ ] 3. WAP to demonstrate usage of Python debugging module.
+
+ ##Set 7
+ - [ ] 1. Rewrite Spam confidence program (5.2) using try and except.
+ - [ ] 2. WAP to read through the mail box data and when you find line that starts with “From”, you will split the line into words using the split function. We are
+interested in who sent the message, which is the
+second word on the From line.
+<br><br>From
+<br>stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008
+<br><br>You will parse the From line using regular
+expression and print out the second word for each From
+line, then you will also count the number of From
+(not From:) lines and print out a count at the end.
+<br><br>Enter a file name: mbox-short.txt
+<br>stephen.marquard@uct.ac.za louis@media.berkeley.edu zqian@umich.edu
+ - [ ] 3. WAP to demonstrate usage of compile() method of RE module in Python.
+
+ ## Set 8
+- [ ] 1. WAP to draw a flower using turtle to understand the concepts of OOP.
+
+- [ ] 2. Define a class name Circle which can be constructed using a parameter radius. The circle class has a method which can compute the area using area method.
+
+- [ ] 3. Create class namely Employee. And show the Employee name, salary and count using OOP concept.
+
+- [ ] 4. Create two classes namely Employee and Qualification. Using multiple inheritance derive two classes Scientist and anager. Take suitable attributes & operations. WAP to implement this class hierarchy.
+
+- [ ] 5. Use concept of classes and object to create a website for playing movie trailer. (Mini Project)
