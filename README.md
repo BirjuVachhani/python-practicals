@@ -30,7 +30,7 @@ Basic Python practicals to begin with python.
 
 - [x] 8. WAP to prompt the user for hours and rate per hour to compute gross pay. Company will give the employee 1.5 times the Hourly rate for hours worked above 40 hours.
 
-- [ ] 9. Given the family relationship below output all persons who fit in the input characteristic. These characteristics are SIBLING, PARENT, CHILD, GRANDPARENT and GRANDCHILD. 
+- [x] 9. Given the family relationship below output all persons who fit in the input characteristic. These characteristics are SIBLING, PARENT, CHILD, GRANDPARENT and GRANDCHILD. 
 <br><br>Family 1 -> Ann and Marty have children Bill, Cathy and Frank. Cathy and Don have children Madd and Sally. Frank and Jill have child Sarah. Bill and Alice have no children.
 <br><br>Family 2 -> Debbie and Phil have children Jill and Betty. Jill and Frank have child Sarah. Betty and Paul have children Marry, Jane and Bart.
 
@@ -61,7 +61,7 @@ clown and the car</i>
 
 - [x] 4. WAP to demonstrate usage of positional, keyword and default parameters.
 
-- [ ] 5. WAP to implement take a break story. This program will notify users to take a break by playing their favorite video on YouTube after fixed amount of time.
+- [x] 5. WAP to implement take a break story. This program will notify users to take a break by playing their favorite video on YouTube after fixed amount of time.
 
 - [x] 6. WAP to help weatherman
 who will predict weather for a particular week and for next seven days. Implement this scenario by creating two modules namely daily.py and weekly.py for predicting daily and weekly weather respectively.
@@ -77,9 +77,9 @@ Enter the file name: mbox.txt
 <br><br>
 Average spam confidence: 0.894128046745
 
-- [ ] 3. Assume that your friend is playing prank with you. You are not able to find your house keys. Your friend has hidden your house keys. If you want your keys back, solve the puzzle. Go to prank folder in your computer. Rename all the files by removing numbers from the filename. You will get the location where keys are hidden.
+- [x] 3. Assume that your friend is playing prank with you. You are not able to find your house keys. Your friend has hidden your house keys. If you want your keys back, solve the puzzle. Go to prank folder in your computer. Rename all the files by removing numbers from the filename. You will get the location where keys are hidden.
 
-- [x] 4. Write a program in Python that reads a file and adds backslash (\) before every double quote it encounters. And then writes it to another file in the same folder.
+- [x] 4. Write a program in Python that reads a file and adds backslash (\\) before every double quote it encounters. And then writes it to another file in the same folder.
 <br><br>
 For example:
 <br>If the file name is TestFile1.txt with text Jack said, “Hello Pune”. The output to the file TestFile2.txt should be Jack said,\“Hello Pune\”.
@@ -87,7 +87,7 @@ For example:
 - [x] 5. Assume that there is a folder (directory) by name “root”. This folder has some files and some subfolders. Each subfolder in turn may have files and subfolders. Write a program to lists all the files inside all the folders/subfolders along with their absolute path.
 
 ## Set 6
- - [ ] 1. Rewrite compute salary program (2.8) using try and except.
+ - [x] 1. Rewrite compute salary program (2.8) using try and except.
  - [ ] 2. WAP to demonstrate usage of one try block with multiple except block and else clause.
  - [ ] 3. WAP to demonstrate usage of Python debugging module.
 
