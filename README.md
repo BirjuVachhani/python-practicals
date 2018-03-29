@@ -88,7 +88,7 @@ For example:
 
 ## Set 6
  - [x] 1. Rewrite compute salary program (2.8) using try and except.
- - [ ] 2. WAP to demonstrate usage of one try block with multiple except block and else clause.
+ - [x] 2. WAP to demonstrate usage of one try block with multiple except block and else clause.
  - [ ] 3. WAP to demonstrate usage of Python debugging module.
 
  ## Set 7
