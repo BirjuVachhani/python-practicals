@@ -9,6 +9,6 @@ try:
     rate=int(input("Enter rate:"))
     print("Gross pay:\t{}".format(calculate_pay(hours,rate)))
 except ValueError as e:
-    print('Input is not a nuumber: '+e)
+    print('Input is not a nuumber: '+str(e))
 except TypeError as e:
-    print('Input is not a nuumber: '+e)
+    print('Input is not a nuumber: '+str(e))
