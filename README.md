@@ -108,7 +108,7 @@ line, then you will also count the number of From
  ## Set 8
 - [ ] 1. WAP to draw a flower using turtle to understand the concepts of OOP.
 
-- [ ] 2. Define a class name Circle which can be constructed using a parameter radius. The circle class has a method which can compute the area using area method.
+- [x] 2. Define a class name Circle which can be constructed using a parameter radius. The circle class has a method which can compute the area using area method.
 
 - [ ] 3. Create class namely Employee. And show the Employee name, salary and count using OOP concept.
 
