@@ -110,7 +110,7 @@ line, then you will also count the number of From
 
 - [x] 2. Define a class name Circle which can be constructed using a parameter radius. The circle class has a method which can compute the area using area method.
 
-- [ ] 3. Create class namely Employee. And show the Employee name, salary and count using OOP concept.
+- [x] 3. Create class namely Employee. And show the Employee name, salary and count using OOP concept.
 
 - [ ] 4. Create two classes namely Employee and Qualification. Using multiple inheritance derive two classes Scientist and anager. Take suitable attributes & operations. WAP to implement this class hierarchy.
 
