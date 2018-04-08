@@ -103,7 +103,7 @@ line, then you will also count the number of From
 (not From:) lines and print out a count at the end.
 <br><br>Enter a file name: mbox-short.txt
 <br>stephen.marquard@uct.ac.za louis@media.berkeley.edu zqian@umich.edu
- - [ ] 3. WAP to demonstrate usage of compile() method of RE module in Python.
+ - [x] 3. WAP to demonstrate usage of compile() method of RE module in Python.
 
  ## Set 8
 - [ ] 1. WAP to draw a flower using turtle to understand the concepts of OOP.
