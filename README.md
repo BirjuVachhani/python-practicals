@@ -92,7 +92,7 @@ For example:
  - [ ] 3. WAP to demonstrate usage of Python debugging module.
 
  ## Set 7
- - [ ] 1. Rewrite Spam confidence program (5.2) using try and except.
+ - [x] 1. Rewrite Spam confidence program (5.2) using try and except.
  - [ ] 2. WAP to read through the mail box data and when you find line that starts with “From”, you will split the line into words using the split function. We are
 interested in who sent the message, which is the
 second word on the From line.

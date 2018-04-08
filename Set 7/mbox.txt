@@ -1,0 +1,18 @@
+this file contains the total readings for confidence.
+readings are as followed:
+
+this week's readings-
+
+X-DSPAM-Confidence:0.8475
+X-DSPAM-Confidence:0.1482
+X-DSPAM-Confidence:0.4867
+X-DSPAM-Confidence:0.3597
+X-DSPAM-Confidence:0.9514
+
+last week's readings-
+
+X-DSPAM-Confidence:0.1384
+X-DSPAM-Confidence:0.6784
+X-DSPAM-Confidence:0.6487
+X-DSPAM-Confidence:0.4862
+X-DSPAM-Confidence:0.7628
