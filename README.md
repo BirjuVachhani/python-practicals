@@ -106,7 +106,7 @@ line, then you will also count the number of From
  - [x] 3. WAP to demonstrate usage of compile() method of RE module in Python.
 
  ## Set 8
-- [ ] 1. WAP to draw a flower using turtle to understand the concepts of OOP.
+- [x] 1. WAP to draw a flower using turtle to understand the concepts of OOP.
 
 - [x] 2. Define a class name Circle which can be constructed using a parameter radius. The circle class has a method which can compute the area using area method.
 
