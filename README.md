@@ -112,6 +112,6 @@ line, then you will also count the number of From
 
 - [x] 3. Create class namely Employee. And show the Employee name, salary and count using OOP concept.
 
-- [ ] 4. Create two classes namely Employee and Qualification. Using multiple inheritance derive two classes Scientist and anager. Take suitable attributes & operations. WAP to implement this class hierarchy.
+- [x] 4. Create two classes namely Employee and Qualification. Using multiple inheritance derive two classes Scientist and anager. Take suitable attributes & operations. WAP to implement this class hierarchy.
 
 - [ ] 5. Use concept of classes and object to create a website for playing movie trailer. (Mini Project)
