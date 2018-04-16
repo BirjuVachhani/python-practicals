@@ -25,6 +25,4 @@ def get_files(location):
 loc = input('Enter path of prank folder: ')
 path = create_path(loc)
 file_list = get_files(path)
-for f in file_list:
-    print(f)
 print('\nRenamed all files successfully!')

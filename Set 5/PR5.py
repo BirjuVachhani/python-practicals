@@ -20,4 +20,4 @@ print(path)
 file_dict = dict()
 get_files(file_dict,loc)
 for key,value in file_dict.items():
-    print('{}:\n{}\n\n'.format(key,value))
+    print('{}:\n{}\n'.format(key,value))

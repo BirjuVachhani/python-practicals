@@ -6,7 +6,7 @@ try:
         for line in f:
             line_parts = line.strip().split(':')
             if line_parts[0] == pattern:
-                confidences.append(float('line_parts[1]'))
+                confidences.append(float(line_parts[1]))
     print('Average spam confidence: {}'.format(sum(confidences)/len(confidences)))
 except IOError as e:
     print(e)
