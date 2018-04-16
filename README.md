@@ -128,3 +128,16 @@ line, then you will also count the number of From
 - [x] 5. Write a program to implement Merge Sort Technique
 
 - [x] 6. Write a program to implement Insertion Sort Technique.
+
+## Set 10
+- [ ] 1. Develop a chat room application using multithreading in Python.
+
+- [x] 2. Implement any one sorting algorithm using TCP/UDP on Server application. Provide the input on Client side and client should receive sorted output from server. Display the sorted output on client.
+
+- [x] 3. Draw Initial of your Name and Surname in Turtle.
+
+- [x] 4. Write a Python program to create multi-widget GUI using Tkinter.
+
+- [x] 5. Write a program to plot different types of graphs using PyPlot.
+
+- [x] 6. Write a Python program to read text from a file. Find out occurrence of each word in dictionary. Create a graphical representation of the same using a bar chart. Give label to chart, x-axis and y-axis. 
