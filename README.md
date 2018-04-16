@@ -89,7 +89,7 @@ For example:
 ## Set 6
  - [x] 1. Rewrite compute salary program (2.8) using try and except.
  - [x] 2. WAP to demonstrate usage of one try block with multiple except block and else clause.
- - [ ] 3. WAP to demonstrate usage of Python debugging module.
+ - [x] 3. WAP to demonstrate usage of Python debugging module.
 
  ## Set 7
  - [x] 1. Rewrite Spam confidence program (5.2) using try and except.
@@ -114,4 +114,17 @@ line, then you will also count the number of From
 
 - [x] 4. Create two classes namely Employee and Qualification. Using multiple inheritance derive two classes Scientist and anager. Take suitable attributes & operations. WAP to implement this class hierarchy.
 
-- [ ] 5. Use concept of classes and object to create a website for playing movie trailer. (Mini Project)
+- [x] 5. Use concept of classes and object to create a website for playing movie trailer. (Mini Project)
+
+## Set 9
+- [x] 1. Write a program to implement Linear Search Technique.
+
+- [x] 2. Write a program to implement Binary Search Technique.
+
+- [x] 3. Write a program to implement Hashing technique.
+
+- [x] 4. Write a program to implement Bubble Sort Technique.
+
+- [x] 5. Write a program to implement Merge Sort Technique
+
+- [x] 6. Write a program to implement Insertion Sort Technique.
