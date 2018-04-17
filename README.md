@@ -130,7 +130,7 @@ line, then you will also count the number of From
 - [x] 6. Write a program to implement Insertion Sort Technique.
 
 ## Set 10
-- [ ] 1. Develop a chat room application using multithreading in Python.
+- [x] 1. Develop a chat room application using multithreading in Python.
 
 - [x] 2. Implement any one sorting algorithm using TCP/UDP on Server application. Provide the input on Client side and client should receive sorted output from server. Display the sorted output on client.
 
