@@ -9,6 +9,7 @@ def occurence(str):
             dic[word] = 1
     return dic
 
+
 fhand = open("input.txt","r")
 str = fhand.read()
 a = occurence(str)
