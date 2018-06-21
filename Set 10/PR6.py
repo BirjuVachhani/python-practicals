@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+
 def occurence(str):
     string = str.lower().split()
     dic = {}
