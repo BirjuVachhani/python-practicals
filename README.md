@@ -141,3 +141,6 @@ line, then you will also count the number of From
 - [x] 5. Write a program to plot different types of graphs using PyPlot.
 
 - [x] 6. Write a Python program to read text from a file. Find out occurrence of each word in dictionary. Create a graphical representation of the same using a bar chart. Give label to chart, x-axis and y-axis. 
+
+- [x] 7. Write a program to find out whether a number is possible by adding 
+6,9,20 to each other(Mcchicken Nuggets Problem).
